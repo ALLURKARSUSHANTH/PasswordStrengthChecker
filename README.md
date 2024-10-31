@@ -1,2 +1,2 @@
-#React + Vite 
+# React + Vite 
 Password Strength Checker was built succesfully.
